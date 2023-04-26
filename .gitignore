@@ -3,3 +3,6 @@
 high*.wav
 low*.wav
 compressed.wav
+decompressed_low.wav
+output*.wav
+output*.mp3
